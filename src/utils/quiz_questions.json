@@ -1,0 +1,184 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "question": "Eleven sees a Demogorgon approaching. If she uses her powers, what happens?",
+          "answerChoices": [
+            "The Demogorgon is scared away",
+            "Nothing happens",
+            "Eleven hides automatically",
+            "The lights turn on"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "The Christmas lights spell a letter from Will. If Joyce sees the correct letter, what should she do?",
+          "answerChoices": [
+            "Signal to the kids",
+            "Ignore it",
+            "Turn the lights off",
+            "Call the police immediately"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "Hopper checks a room for danger. If he finds a Demogorgon, what happens next?",
+          "answerChoices": [
+            "He retreats",
+            "He does nothing",
+            "He sets a trap automatically",
+            "The room disappears"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "Mike is looking for Eleven. If she is hiding, what is his next logical action?",
+          "answerChoices": [
+            "Call her name loudly",
+            "Walk away",
+            "Ignore the hiding",
+            "Leave Hawkins"
+          ],
+          "correctChoice": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "question": "The kids search every room in the Byers’ house for clues, one by one. If they find a clue in a room, what should they do next?",
+          "answerChoices": [
+            "Stop searching that room and take the clue",
+            "Keep searching the same room",
+            "Leave without checking",
+            "Set the room on fire"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "They need to check 5 lockers for a hidden message. If the first locker is empty, what happens?",
+          "answerChoices": [
+            "Move to the next locker",
+            "Give up searching",
+            "Check the same locker again",
+            "Call the police immediately"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "If the gang throws rocks at a Demogorgon to distract it, what happens after each throw?",
+          "answerChoices": [
+            "The Demogorgon moves toward the rock",
+            "It ignores all rocks",
+            "It disappears",
+            "The kids run away automatically"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "They are counting Christmas lights that blink. If a light blinks the wrong color, what should they do?",
+          "answerChoices": [
+            "Skip it and check the next one",
+            "Stop counting entirely",
+            "Call Eleven immediately",
+            "Break the light"
+          ],
+          "correctChoice": 0
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "question": "The gang enters the Upside Down, which has tunnels inside tunnels. If they reach a tunnel with no exit, what should they do?",
+          "answerChoices": [
+            "Go back to the previous tunnel",
+            "Keep moving forward randomly",
+            "Give up and leave Hawkins",
+            "Shout loudly for Will"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "Eleven can find smaller Demogorgons inside a bigger lair. If she defeats one, what is the next logical step?",
+          "answerChoices": [
+            "Check for more Demogorgons inside",
+            "Leave immediately",
+            "Call for backup automatically",
+            "Do nothing"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "If a problem in Hawkins has smaller problems inside it, how should the gang approach it?",
+          "answerChoices": [
+            "Solve the smaller problems first",
+            "Ignore the smaller problems",
+            "Run away",
+            "Call the mayor"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "If the gang uses a walkie-talkie to check a room, but no one answers, what is the logical next action?",
+          "answerChoices": [
+            "Check the room themselves",
+            "Give up searching",
+            "Break the walkie-talkie",
+            "Shout from outside only"
+          ],
+          "correctChoice": 0
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "question": "The kids check every wall light in the Byers’ house. If a letter is lit up, what should they do before moving to the next light?",
+          "answerChoices": [
+            "Note the letter and continue",
+            "Ignore the letter",
+            "Turn off all the lights",
+            "Run outside"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "Eleven checks each layer of the Upside Down. If she finds a safe path, what should she do next?",
+          "answerChoices": [
+            "Proceed carefully to the next layer",
+            "Go back immediately",
+            "Destroy the path",
+            "Call a stranger"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "The gang counts Demogorgon tracks. If they find a set leading somewhere, what is the logical next step?",
+          "answerChoices": [
+            "Follow the tracks",
+            "Ignore the tracks",
+            "Erase them",
+            "Mark the tracks with chalk only"
+          ],
+          "correctChoice": 0
+        },
+        {
+          "question": "They are searching for Will, but a tunnel collapses. If the main path is blocked, what should they do?",
+          "answerChoices": [
+            "Take a different path back and try another route",
+            "Give up searching",
+            "Shout for help endlessly",
+            "Call it a day"
+          ],
+          "correctChoice": 0
+        }
+      ]
+    }
+  ]
+}

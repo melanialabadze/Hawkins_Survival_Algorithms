@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.quiz-modal {
+  position: fixed; /* Sit on top of everything */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7); /* semi-transparent overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* make sure it's above the canvas */
+}
+
+.quiz-modal > div {
+  background-color: white;
+  padding: 20px 30px;
+  border-radius: 12px;
+  min-width: 300px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: "Benguiat";
+  src: url("./assets/fonts/st.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.stranger {
+  font-family: "", serif;
+  font-size: 48px;
+  color: #ff0000; /* Stranger Things red */
+  text-shadow: 2px 2px 0 #000;
+}
